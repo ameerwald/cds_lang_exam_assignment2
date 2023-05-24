@@ -58,7 +58,7 @@ accuracy   | -- |--|    0.89    |
 
 Logistic Regression results 
 
-lable|precision | recall |f1-score  
+label|precision | recall |f1-score  
 |---|---|---|---|
 FAKE   |    0.89  |    0.88  |    0.88  |
 REAL    |   0.88  |    0.90  |    0.89  |     
