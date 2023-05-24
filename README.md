@@ -50,18 +50,18 @@ When comparing the classification reports it appears that the classifiers are al
 
 Neural Net results 
 
-|precision|recall|f1-score  
-|---|---|---|
+label|precision|recall|f1-score  
+|---|---|---|---|
 FAKE |      0.90   |   0.88  |    0.89   |    
 REAL   |    0.88   |   0.90   |   0.89   |   
-accuracy   | -- | --    |       0.89    |  
+accuracy   | -- |--|    0.89    |  
 
 Logistic Regression results 
 
-precision | recall |f1-score  
-|---|---|---|
+lable|precision | recall |f1-score  
+|---|---|---|---|
 FAKE   |    0.89  |    0.88  |    0.88  |
 REAL    |   0.88  |    0.90  |    0.89  |     
-accuracy  |--|--|                 0.89  |   
+accuracy  |--| --|              0.89  |   
 
 
