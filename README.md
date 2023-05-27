@@ -7,11 +7,11 @@ This assignment can be found at my github [repo](https://github.com/ameerwald/cd
  
 ## The data
 
-A dataset of fake and real news headlines and can be found [here] (https://www.kaggle.com/datasets/jillanisofttech/fake-or-real-news). It contains the headline, text of the story and label (fake or real). 
+The dataset is of fake and real news headlines and can be found [here] (https://www.kaggle.com/datasets/jillanisofttech/fake-or-real-news). It contains the headline, text of the story and label (fake or real). 
 
 ## Assignment description
 
-This assignment asked for two different scripts training a logistic regression classifier and a neural network classifer. This was to be done using ```scikit-learn```. Both scripts required three things:
+This assignment asked for two different scripts training a logistic regression classifier and a neural network classifier. This was to be done using ```scikit-learn```. Both scripts required three things:
 
 - Be executed from the command line
 - Save the classification report to the folder called ```out```
